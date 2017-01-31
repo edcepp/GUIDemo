@@ -84,11 +84,12 @@
                 android:id="@+id/advise"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_gravity="center_horizontal"
+                android:gravity="center"
                 android:layout_weight="12"
                 android:background="@android:color/white"
                 android:text="Dah"
-                android:textSize="24dp" />
+                android:textSize="144dp"
+                />
 
             <Space
                 android:layout_width="0dp"
